@@ -1,6 +1,6 @@
 # Frontend Roadmap
 
-Lộ trình học lập trình FrontEnd 
+Lộ trình học lập trình Frontend 
 
 # Mục tiêu lộ trình
 
